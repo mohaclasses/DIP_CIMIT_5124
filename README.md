@@ -15,3 +15,14 @@ This repository contains practical laboratory materials for Digital Image Proces
 ## Getting Started
 
 Follow the instructions in [setup.md](setup.md) to configure the Python environment and Jupyter Notebook in VS Code.
+
+## Acknowledgments
+
+Some laboratory exercises and documentation were developed with assistance from OpenAI's ChatGPT. All materials are
+reviewed and maintained by the course instructor.
+
+## License
+
+The source code and laboratory notebooks in this repository are licensed under the [MIT License](LICENSE).
+
+Third-party images and datasets remain subject to their respective licenses and usage conditions.
