@@ -7,6 +7,7 @@ This repository contains practical laboratory materials for Digital Image Proces
 | Lab | Notebook | Description |
 |---|---|---|
 | 01 | [Digital Image Fundamentals](01_digital_image_fundamentals.ipynb) | Image representation, pixel properties, spatial sampling, intensity quantization, and RGB channel decomposition. |
+| 02 | [Arithmetic and Logical Operations](02_arithmetic_and_logical_operations.ipynb) | Image addition, subtraction, multiplication, division, overflow, normalization, logical operations, ROI masking, and difference detection. |
 
 ## Getting Started
 
