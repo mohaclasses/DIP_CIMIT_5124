@@ -10,6 +10,7 @@ This repository contains practical laboratory materials for Digital Image Proces
 | 02 | [Arithmetic and Logical Operations](02_arithmetic_and_logical_operations.ipynb) | Image addition, subtraction, multiplication, division, overflow, normalization, logical operations, ROI masking, and difference detection. |
 | 03 | [Gray-Level Transformations](03_gray-level_transformations.ipynb) | Linear transformations, contrast stretching, gray-level slicing, gamma correction, logarithmic transformations, and Fourier spectrum visualization. |
 | 04 | [Histogram Processing](04_histogram_processing.ipynb) | Histogram computation, normalization, equalization, specification, sliding, stretching, and shrinking. |
+| 05 | [Neighborhood Processing](05_neighborhood_processing.ipynb) | 1D and 2D convolution, correlation, boundary handling, pixel neighborhoods, low-pass filtering, Laplacian sharpening, and median filtering. |
 
 ## Getting Started
 
