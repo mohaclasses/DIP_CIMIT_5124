@@ -20,3 +20,6 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.log
+
+# Folder for images downloaded for testing
+images/
