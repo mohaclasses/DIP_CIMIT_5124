@@ -11,6 +11,7 @@ This repository contains practical laboratory materials for Digital Image Proces
 | 03 | [Gray-Level Transformations](03_gray-level_transformations.ipynb) | Linear transformations, contrast stretching, gray-level slicing, gamma correction, logarithmic transformations, and Fourier spectrum visualization. |
 | 04 | [Histogram Processing](04_histogram_processing.ipynb) | Histogram computation, normalization, equalization, specification, sliding, stretching, and shrinking. |
 | 05 | [Neighborhood Processing](05_neighborhood_processing.ipynb) | 1D and 2D convolution, correlation, boundary handling, pixel neighborhoods, low-pass filtering, Laplacian sharpening, and median filtering. |
+| 06 | [Frequency Domain Filtering](06_frequency_domain_processing.ipynb) | 2D DFT, Fourier magnitude and phase, frequency centering, Ideal/Gaussian/Butterworth low-pass and high-pass filters, high-frequency emphasis, and the convolution theorem. |
 
 ## Getting Started
 
