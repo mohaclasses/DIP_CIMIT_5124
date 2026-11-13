@@ -12,6 +12,7 @@ This repository contains practical laboratory materials for Digital Image Proces
 | 04 | [Histogram Processing](04_histogram_processing.ipynb) | Histogram computation, normalization, equalization, specification, sliding, stretching, and shrinking. |
 | 05 | [Neighborhood Processing](05_neighborhood_processing.ipynb) | 1D and 2D convolution, correlation, boundary handling, pixel neighborhoods, low-pass filtering, Laplacian sharpening, and median filtering. |
 | 06 | [Frequency Domain Filtering](06_frequency_domain_processing.ipynb) | 2D DFT, Fourier magnitude and phase, frequency centering, Ideal/Gaussian/Butterworth low-pass and high-pass filters, high-frequency emphasis, and the convolution theorem. |
+| 07 | [Edge Detection](07_edge_detectors.ipynb) | Step and ramp edges, first- and second-order derivatives, Roberts, Prewitt, Sobel, gradient thresholding, compass operators, Laplacian, LoG, and Canny edge detection. |
 
 ## Getting Started
 
