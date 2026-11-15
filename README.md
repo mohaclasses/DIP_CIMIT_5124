@@ -15,6 +15,7 @@ This repository contains practical laboratory materials for Digital Image Proces
 | 07 | [Edge Detection](07_edge_detectors.ipynb) | Step and ramp edges, first- and second-order derivatives, Roberts, Prewitt, Sobel, gradient thresholding, compass operators, Laplacian, LoG, and Canny edge detection. |
 | 08 | [Image Segmentation](08_segmentation.ipynb) | Manual and iterative global thresholding, Otsu's method, adaptive thresholding, seed-based region growing, connectivity analysis, and quadtree splitting and merging. |
 | 09 | [Morphological Image Processing](09_morphological_processing.ipynb) | Binary set operations, structuring elements, dilation, erosion, opening, closing, idempotence, and morphological boundary extraction. |
+| 10 | [Image Restoration](10_image_restoration.ipynb) | Image degradation models, point spread functions (PSFs), noise distributions, spatial and adaptive filtering, periodic noise removal, inverse and Wiener filtering, and restoration quality assessment. |
 
 ## Getting Started
 
